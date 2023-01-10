@@ -28,7 +28,7 @@ Notar que debes mostrar hacer el cambio de vista (entre catálogo y carrito de c
 ## Demo
 
 Puedes probar este proyecto desde el siguiente enlace
-https://fmoraless.github.io/ecommerce-app/
+https://c4martinez.github.io/ECOMMERCE_APP/
 
 
 ## Ejecutar en Local
@@ -36,7 +36,7 @@ https://fmoraless.github.io/ecommerce-app/
 Clonar projecto
 
 ```bash
-  git clone https://github.com/fmoraless/ecommerce-app.git
+  git clone https://github.com/c4martinez/ECOMMERCE_APP.git
 ```
 
 Ir al directorio del proyecto
