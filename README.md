@@ -4,12 +4,9 @@
 Proyecto final modulo JS Essentials - Escalab Academy
 
 
-## Authors
+## Author
 
-- Angel Beltrán [@Paman00](https://github.com/Paman00)
-- Luis Barrolleta [@lubarrolleta](https://www.github.com/lubarrolleta)
 - Carlos Martínez [@c4martinez](https://www.github.com/c4martinez)
-- Francisco Morales [@fmoraless](https://www.github.com/fmoraless)
 
 
 
